@@ -1,6 +1,6 @@
 '''
 To do: make https the default protocol while still supporting sites that don't support https
-use re in removeformatting to limit \n to two in a row
+use beautifulsoup to get images
 '''
 
 from CacheCookies import *
